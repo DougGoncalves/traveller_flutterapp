@@ -1,7 +1,22 @@
-# Traveller
+<h1 align="center">
+   Traveller - A Flutter Travel App
+</h1>
 
-Travel app developed using flutter
+ <p align="center">
+   <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ </p>
 
-You can see a preview here:
+ <p align="center">
+    <img alt="Screenshot" src="screenshots/app.gif">
+ </p>
 
-![app_functions](screenshots/app.gif)
+
+
+ ## 💻 Project
+
+Travel app developed using Flutter.
+
+ ---
+<h4 align="center">
+   Code and coffee ☕
+</h4>
